@@ -28,7 +28,8 @@ A simple, user-friendly calculator built using Python and the Tkinter library. I
 
 ## Screenshots
 
-![Calculator Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/41f48356-2436-4268-85a3-2285ccd44875)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
