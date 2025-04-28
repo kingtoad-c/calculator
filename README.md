@@ -13,16 +13,8 @@ A simple, user-friendly calculator built using Python and the Tkinter library. I
 
 ## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/python-calculator.git
-    cd python-calculator
-    ```
-
-2. Run the application:
-    ```bash
-    python calculator.py
-    ```
+- download repository
+- run the cal.pyw program
 
 ## Usage
 1. Input numbers using the number buttons (`0-9`).
